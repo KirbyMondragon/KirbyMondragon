@@ -1,12 +1,9 @@
-<p align="center">
-    <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
-</p>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://i.pinimg.com/originals/84/da/da/84dada0a5dcfd790700df3dd87897aef.gif" width = auto> </h1>
+<img src = "https://i.pinimg.com/originals/84/da/da/84dada0a5dcfd790700df3dd87897aef.gif" width = auto> </h1>
 <p align='center'>
 </p>
 
-
+<h1> Hello Fellow < Developers/ >! 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=Aditya664.Aditya664)
 [![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/Aditya664)
 
