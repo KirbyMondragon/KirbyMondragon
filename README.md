@@ -17,12 +17,10 @@
 
 <h2> About Me </h2>
 
-<p>- 🔭 I’m currently working on  Soy Estudiante </p>
-<p>- 🔭 I’m currently working on  Soy Estudiante</p>
+<p>- 🔭I'm student currently </p>
 <p>- 🌱 I’m currently learning Angular </p>
-<p>- 👯 I’m working in IA </p>
 <p>- 💬 Ask me about Sql, Node.js, Typescript</p>
-<p>- ⚡ In my free time: .</p>
+<p>- ⚡  I’m working in IA .</p>
   
 
 
@@ -36,7 +34,7 @@
 
 <h2> Contact me</h2>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://www.linkedin.com/feed/">
     <img src="https://skillicons.dev/icons?i=bots,discord,linkedin" />
   </a>
 </p>
