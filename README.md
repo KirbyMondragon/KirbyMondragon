@@ -2,7 +2,7 @@
     <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
 </p>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://i.pinimg.com/originals/84/da/da/84dada0a5dcfd790700df3dd87897aef.gif" width = 30px> </h1>
+<h1> Hello Fellow < Developers/ >! <img src = "https://i.pinimg.com/originals/84/da/da/84dada0a5dcfd790700df3dd87897aef.gif" width = auto> </h1>
 <p align='center'>
 </p>
 
