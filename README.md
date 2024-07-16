@@ -18,7 +18,6 @@
 <h2> About Me </h2>
 
 <p>- 🔭I'm student currently </p>
-<p>- 🌱 I’m currently learning Angular </p>
 <p>- 💬 Ask me about Sql, Node.js, Typescript</p>
 <p>- ⚡  I’m working in IA .</p>
   
