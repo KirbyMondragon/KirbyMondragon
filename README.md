@@ -6,7 +6,7 @@
 <h1> Hello  < Developers/ >! 
 
 <div size='20px'>
-	<h2>Hi! My name is Kevin Mondragon </h2> 
+	<h2> My name is Arturo Mondragon </h2> 
 	<p align="center">
 	  <a href="https://skillicons.dev">
 	    <img src="https://skillicons.dev/icons?i=git,github,mysql,mongo,typescript" />
