@@ -3,7 +3,7 @@
 <p align='center'>
 </p>
 
-<h1> Hello Developers < Developers/ >! 
+<h1> Hello  < Developers/ >! 
 
 <div size='20px'>
 	<h2>Hi! My name is Kevin Mondragon </h2> 
